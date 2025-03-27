@@ -1,0 +1,6 @@
+---
+title: meeing_companion
+app_file: speech2text_app.py
+sdk: gradio
+sdk_version: 5.22.0
+---
